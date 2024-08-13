@@ -2,6 +2,11 @@
 
 Welcome to **FeastFi** - Your ultimate food delivery companion app! FeastFi is built with Flutter and Firebase to provide users with a seamless, intuitive, and delightful food ordering experience.
 
+<div style="display: flex; justify-content: center; align-items: center;">
+   <img src="https://github.com/user-attachments/assets/01d8e225-44c4-4059-bc2f-01752b4f3240" alt="search-analytic" width="20" style="vertical-align: middle;"/>
+   <span style="vertical-align: middle; margin-left: 10px;">Project overview</span>
+</div>
+
 ![7-removebg-preview](https://github.com/user-attachments/assets/2bde11fa-3c9b-4a48-bc4f-863ede5830ef)
 
 ## 🎯 Features
@@ -51,5 +56,4 @@ To run this project, ensure you have the following installed:
 3. **Configure Firebase**:
    ```bash
    flutterfire configure
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
